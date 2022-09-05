@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimaryHome">#2BCC6F</color>
+    <color name="colorPrimaryHome">#8A37B1</color>
     <color name="colorPrimaryDarkHome">#2BCC6F</color>
     <color name="colorAccentHome">#333333</color>
     <color name="colorPrimaryLightHome">#E9F8F1</color>
     <color name="colorWhiteHome">#FFFFFF</color>
-    <color name="colorBackgroundHome">#EBEBEB</color>
+    <color name="colorBlackHome">#000000</color>
+    <color name="colorFinanceHome">#87FC73</color>
+    <color name="colorHealthHome">#ED801B</color>
+    <color name="colorMentalHome">#BDE9FF</color>
+    <color name="colorAddBtnHome">#D9D9D9</color>
+    <color name="colorBackgroundHome">#1D5284</color>
     <color name="colorDividerHome">#D6D6D6</color>
 </resources>
